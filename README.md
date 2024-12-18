@@ -26,4 +26,4 @@ This project requires the following dependencies:
 
 Install dependencies with:
 ```bash
-pip install -r requirements.txt
+pip install dependecy_name
