@@ -12,6 +12,7 @@ A simple interface that fetches events from Wazuh (a SIEM) and compares them wit
 - **Multi-threading:** Performs Freshdesk comparisons in a separate thread to keep the interface responsive.
 
 ---
+![image](https://github.com/user-attachments/assets/9a003485-321c-4a48-932b-1e0ae6f31603)
 
 ## Requirements
 
